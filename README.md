@@ -1,2 +1,4 @@
 # MQTT_test
-Run setup.sh first
+Run 
+chmod +x setup.sh
+./setup.sh 
